@@ -70,6 +70,6 @@ Sample Insights For Brisbane (2008–2017):
 
 The following screenshot shows the final Power BI dashboard built for climate trend analysis:
 
-![Dashboard]("C:/Users/GAYATHRI ANIL/OneDrive/Desktop/Climate Trend Analysis Project/Output/Dashboard.png")
+![Dashboard](Output/Dashboard.png)
 
 
