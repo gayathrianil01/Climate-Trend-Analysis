@@ -16,7 +16,7 @@ To explore and visualize historical climate trends—primarily temperature and r
 - Python (Pandas) – for handling and preparing the data
 - Power BI – for creating dynamic dashboards and visualizations
 
----
+
 
 ## Dataset Description
 
@@ -31,7 +31,7 @@ The dataset includes daily weather observations from multiple Australian cities 
 
 Only relevant columns were retained during preprocessing for a focused analysis.
 
----
+
 
 ## Workflow
 
@@ -48,7 +48,7 @@ Only relevant columns were retained during preprocessing for a focused analysis.
    - Designed a clustered column chart showing relationship between RainToday and RainTomorrow
    - Added slicers for interactive filtering by year and location
 
----
+
 
 ## Results Summary
 
@@ -58,7 +58,7 @@ Sample Insights For Brisbane (2008–2017):
 - A strong correlation was observed: when it rained today (`RainToday = Yes`), the likelihood of rain tomorrow increased.
 - The dashboard allows users to filter by year and location to analyze patterns across time and regions.
 
----
+
 
 ##  How to Run This Project
 
@@ -66,5 +66,10 @@ Sample Insights For Brisbane (2008–2017):
 2. Launch the Power BI dashboard (provided in `.pbix` format inside the `Output/` folder) to interact with the visualizations.
 3. Use slicers in the dashboard to switch between locations and years.
 
----
+## Dashboard Overview
+
+The following screenshot shows the final Power BI dashboard built for climate trend analysis:
+
+![Dashboard]("C:\Users\GAYATHRI ANIL\OneDrive\Desktop\Climate Trend Analysis Project\Output\Dashboard.png")
+
 
